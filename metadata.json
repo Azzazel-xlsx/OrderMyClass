@@ -1,0 +1,6 @@
+{
+  "name": "Order my students",
+  "description": "Gestión integral de cursos, estudiantes, notas, asistencias y horarios para profesores de inglés.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
